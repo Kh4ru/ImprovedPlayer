@@ -1,7 +1,7 @@
 ![Bannière du projet](https://github.com/Kh4ru/ImprovedPlayer/blob/main/images/banner.png)
 # ImprovedPlayer
-:fr: Un script Godot pour aider a gérer les propriétés joueur.
-:us: A Godot script to help manage player properties.
+* :fr: Un script Godot pour aider a gérer les propriétés joueur.
+* :us: A Godot script to help manage player properties
 ## Comment l'utiliser ? :fr:
 1. Placer directement ce script a la racine de votre projet **Godot**.
 2. Utiliser ce script sur le node **CharachtherBody2d**.
